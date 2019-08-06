@@ -1,0 +1,33 @@
+
+.parent{
+    margin: auto;
+    width: 500px;
+}
+
+button{
+    padding: 5px 24px;
+    border: none;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: blue;
+    color: white;
+    width: 90px;
+    text-align: center;
+    display: blc;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+textarea,.allmessage{
+    height: 100%;
+    width: 100%;
+    display: block;
+    padding: 13px;
+    text-transform: capitalize;
+    resize: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background: azure;
+    color: black;
+}
